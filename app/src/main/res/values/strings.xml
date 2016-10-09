@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JSketch</string>
+    <string name="line">Line</string>
+    <string name="rect">Rect</string>
+    <string name="circle">Circle</string>
+    <string name="fill">Fill</string>
+    <string name="selection">Selection</string>
+    <string name="erase">Erase</string>
+    <string name="paint">Paint</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+</resources>
